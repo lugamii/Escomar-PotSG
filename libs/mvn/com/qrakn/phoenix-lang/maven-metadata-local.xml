@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.qrakn</groupId>
+  <artifactId>phoenix-lang</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180920112740</lastUpdated>
+  </versioning>
+</metadata>

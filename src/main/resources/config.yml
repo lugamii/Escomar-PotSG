@@ -1,0 +1,29 @@
+SCOREBOARD:
+  TITLE-COLOR: "&3&l"
+  SECONDARY: "&f"
+  SEPARATOR: "&7"
+  IP-COLOR: "&7"
+COLOR:
+  MAIN: "&3"
+  SECONDARY: "&f"
+GUI:
+  TITLE-COLOR: "&3&l"
+  MAIN-COLOR: "&3&l"
+  FIRST-COLOR: "&3"
+  SECONDARY-COLOR: "&f"
+  THIRD-COLOR: "&7"
+ITEMS:
+  IN-LOBBY:
+    JOIN-GAME: "&a&lJoin Current Game"
+    SPECTATE-GAME: "&e&lSpectate Current Game"
+    HOST-GAME: "&9&lHost A Game"
+    LEADERBOARDS: "&2&lLeaderboards"
+    PREFERENCES: "&3&lPreferences"
+  IN-GAME:
+    LEAVE-GAME: "&c&lLeave Game"
+    STOP_SPECTATING: "&c&lStop Spectating"
+    INSPECT: "&e&lInspect"
+SERVER-NAME: "Orbit"
+SEASON: "(Season I)"
+SERVER-IP: "orbitmc.club"
+lobby-spawn:
